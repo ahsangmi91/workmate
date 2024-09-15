@@ -1,0 +1,19 @@
+# Flutter/Dart specific
+.flutter-plugins
+.flutter-plugins-deps
+.packages
+pubspec.lock
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/Podfile.lock
+ios/Podfile
+ios/Podfile.lock
+ios/Flutter/Flutter.podspec
+
+# Mac
+.DS_Store
+
+# Linux
+*~
